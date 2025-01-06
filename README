@@ -1,6 +1,6 @@
 MINI Remastered -- Mini Is Not IOS
 Copyright (c) 2008, 2009 Team Twiizers
-Copyright (c) 2024, 2024 MacroHard
+Copyright (c) 2024, 2025 MacroHard
 
 MINI Remastered is an updated fork of a bare-bones 
 replacement for IOS.  It does not have all of the features 
@@ -16,4 +16,4 @@ recovery tasks, and as a shim/proxy to allow code on the PPC
 
 We hope to implement these changes ASAP. Using code from Wii-Linux 
 (specifically Archii) we can make a fully fuctional replacment to the 
-IOS.
+IOS with a GUI that is both user friendly and useful. 
